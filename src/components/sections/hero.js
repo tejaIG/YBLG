@@ -65,11 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a software engineer specializing in building exceptional AI/ML Applications. Currently,
+        I’m focused on building computur vision based products at{' '}
+        <a href="https://innovarsity.org/" target="_blank" rel="noreferrer">
+          Innovarsity
         </a>
         .
       </p>
@@ -78,10 +77,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://drive.google.com/file/d/1Aw1Fsef10Ot-DHJBm00nVNQesLv_4Tgm/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my resume!
     </a>
   );
 
